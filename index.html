@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dollar Street Narrative</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://unpkg.com/topojson-client@3"></script>
+  <script src="https://unpkg.com/d3-svg-annotation@2.5.1/d3-annotation.min.js"></script>
+</head>
+<body>
+
+  <h1>Dollar Street: How People Live by Income</h1>
+
+  <div id="nav">
+    <button id="home">Home</button>
+    <button id="prev">Previous</button>
+    <button id="next">Next</button>
+  </div>
+  
+  <div id="scene-container"></div>
+
+  <!-- Popup modal -->
+  <div id="popup" class="popup hidden">
+    <div class="popup-content">
+      <span id="popup-close">&times;</span>
+      <img id="popup-image" src="" alt="popup image" style="max-width:100%; margin-bottom: 1em;">
+      <h2 id="popup-country"></h2>
+      <p id="popup-income"></p>
+      <p id="popup-description"></p>
+      <div id="popup-map" style="margin-top: 1em;"></div>
+    </div>
+  </div>
+  
+
+  <script src="script.js"></script>
+</body>
+</html>

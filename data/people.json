@@ -1,0 +1,573 @@
+[
+  {
+    "id": "toothbrush_high_united_states",
+    "income": "high",
+    "country": "United States",
+    "continent": "The Americas",
+    "monthlyIncome": 3478,
+    "type": "toothbrush",
+    "image": "images/high/toothbrush_united_states.jpg",
+    "photoBy": "Raashi Saxena for Dollar Street 2019 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "toothbrush_high_france",
+    "income": "high",
+    "country": "France",
+    "continent": "Europe",
+    "monthlyIncome": 7110,
+    "type": "toothbrush",
+    "image": "images/high/toothbrush_france.jpg",
+    "photoBy": "Photo: Omar Havana for Dollar Street 2020 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_toothbrush_03",
+    "income": "high",
+    "country": "Czech Republic",
+    "continent": "Europe",
+    "monthlyIncome": 5237,
+    "type": "toothbrush",
+    "image": "images/high/toothbrush_czech_republic.jpg",
+    "photoBy": "Michal Sikora for Dollar Street 2019 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_toothbrush_04",
+    "income": "high",
+    "country": "Brazil",
+    "continent": "The Americas",
+    "monthlyIncome": 3916,
+    "type": "toothbrush",
+    "image": "images/high/toothbrush_brazil.jpg",
+    "photoBy": "Leony Carvalho for Dollar Street 2018 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_toothbrush_05",
+    "income": "high",
+    "country": "Colombia",
+    "continent": "The Americas",
+    "monthlyIncome": 6740,
+    "type": "toothbrush",
+    "image": "images/high/toothbrush_colombia.jpeg",
+    "photoBy": "Susana Arabia for Dollar Street 2022 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_toothbrush_06",
+    "income": "high",
+    "country": "India",
+    "continent": "Asia",
+    "monthlyIncome": 4621,
+    "type": "toothbrush",
+    "image": "images/high/toothbrush_india.jpeg",
+    "photoBy": "Vanshika Sharma for Dollar Street 2018 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_toothbrush_07",
+    "income": "high",
+    "country": "Spain",
+    "continent": "Europe",
+    "monthlyIncome": 4256,
+    "type": "toothbrush",
+    "image": "images/high/toothbrush_spain.jpg",
+    "photoBy": "Omar Havana for Dollar Street 2019 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_toothbrush_08",
+    "income": "high",
+    "country": "Kenya",
+    "continent": "Africa",
+    "monthlyIncome": 3268,
+    "type": "toothbrush",
+    "image": "images/high/toothbrush_kenya.jpg",
+    "photoBy": "Johan Selin for Dollar Street 2015 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_toothbrush_09",
+    "income": "high",
+    "country": "South Korea",
+    "continent": "Asia",
+    "monthlyIncome": 4531,
+    "type": "toothbrush",
+    "image": "images/high/toothbrush_south_korea.jpg",
+    "photoBy": "Luc Forsyth for Dollar Street 2015 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_beds_01",
+    "income": "high",
+    "country": "Kenya",
+    "continent": "Africa",
+    "monthlyIncome": 3268,
+    "type": "beds",
+    "image": "images/high/beds_kenya.jpg",
+    "photoBy": "Johan Selin for Dollar Street 2015 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_beds_02",
+    "income": "high",
+    "country": "South Korea",
+    "continent": "Asia",
+    "monthlyIncome": 4531,
+    "type": "beds",
+    "image": "images/high/beds_south_korea.jpg",
+    "photoBy": "Luc Forsyth for Dollar Street 2015 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_beds_03",
+    "income": "high",
+    "country": "United States",
+    "continent": "The Americas",
+    "monthlyIncome": 3478,
+    "type": "beds",
+    "image": "images/high/beds_united_states.jpg",
+    "photoBy": "Raashi Saxena for Dollar Street 2019 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_beds_04",
+    "income": "high",
+    "country": "Brazil",
+    "continent": "The Americas",
+    "monthlyIncome": 3356,
+    "type": "beds",
+    "image": "images/high/beds_brazil.jpg",
+    "photoBy": "Leony Carvalho for Dollar Street 2018 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_beds_05",
+    "income": "high",
+    "country": "Colombia",
+    "continent": "The Americas",
+    "monthlyIncome": 3407,
+    "type": "beds",
+    "image": "images/high/beds_colombia.jpg",
+    "photoBy": "Valentina Gil for Dollar Street 2019 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_beds_06",
+    "income": "high",
+    "country": "Czech Republic",
+    "continent": "Europe",
+    "monthlyIncome": 5237,
+    "type": "beds",
+    "image": "images/high/beds_czech_republic.jpg",
+    "photoBy": "Michal Sikora for Dollar Street 2019 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_beds_07",
+    "income": "high",
+    "country": "France",
+    "continent": "Europe",
+    "monthlyIncome": 3764,
+    "type": "beds",
+    "image": "images/high/beds_france.jpg",
+    "photoBy": "Michal Sikora for Dollar Street 2019 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_beds_08",
+    "income": "high",
+    "country": "India",
+    "continent": "Asia",
+    "monthlyIncome": 6606,
+    "type": "beds",
+    "image": "images/high/beds_india.JPG",
+    "photoBy": "Priya Gupta for Dollar Street 2018 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_beds_09",
+    "income": "high",
+    "country": "Spain",
+    "continent": "Europe",
+    "monthlyIncome": 3195,
+    "type": "beds",
+    "image": "images/high/beds_spain.jpg",
+    "photoBy": "Omar Havana for Dollar Street 2019 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_families_01",
+    "income": "high",
+    "country": "Colombia",
+    "continent": "The Americas",
+    "monthlyIncome": 6030,
+    "type": "families",
+    "image": "images/high/families_colombia.jpg",
+    "photoBy": "Ana Maria for Dollar Street 2020 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_families_02",
+    "income": "high",
+    "country": "Czech Republic",
+    "continent": "Europe",
+    "monthlyIncome": 4183,
+    "type": "families",
+    "image": "images/high/families_czech_republic.JPG",
+    "photoBy": "Beatriz Loducca Sivieri for Dollar Street 2019 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_families_03",
+    "income": "high",
+    "country": "France",
+    "continent": "Europe",
+    "monthlyIncome": 14753,
+    "type": "families",
+    "image": "images/high/families_france.jpg",
+    "photoBy": "Omar Havana for Dollar Street 2020 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_families_04",
+    "income": "high",
+    "country": "India",
+    "continent": "Asia",
+    "monthlyIncome": 6606,
+    "type": "families",
+    "image": "images/high/families_india.jpg",
+    "photoBy": "Priya Gupta for Dollar Street 2018 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_families_05",
+    "income": "high",
+    "country": "South Korea",
+    "continent": "Asia",
+    "monthlyIncome": 4531,
+    "type": "families",
+    "image": "images/high/families_south_korea.jpg",
+    "photoBy": "Luc Forsyth for Dollar Street 2015 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_families_06",
+    "income": "high",
+    "country": "Spain",
+    "continent": "Europe",
+    "monthlyIncome": 4553,
+    "type": "families",
+    "image": "images/high/families_spain.jpg",
+    "photoBy": "Omar Havana for Dollar Street 2019 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "high_families_07",
+    "income": "high",
+    "country": "United States",
+    "continent": "The Americas",
+    "monthlyIncome": 5125,
+    "type": "families",
+    "image": "images/high/families_united_states.jpg",
+    "photoBy": "Raashi Saxena for Dollar Street 2019 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_toothbrush_01",
+    "income": "mid",
+    "country": "Colombia",
+    "continent": "The Americas",
+    "monthlyIncome": 654,
+    "type": "toothbrush",
+    "image": "images/mid/toothbrush_colombia.jpg",
+    "photoBy": "Andrea Builes Gomez for Dollar Street 2019 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_toothbrush_02",
+    "income": "mid",
+    "country": "Spain",
+    "continent": "Europe",
+    "monthlyIncome": 936,
+    "type": "toothbrush",
+    "image": "images/mid/toothbrush_spain.jpg",
+    "photoBy": "Omar Havana for Dollar Street 2020 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_toothbrush_03",
+    "income": "mid",
+    "country": "Brazil",
+    "continent": "The Americas",
+    "monthlyIncome": 685,
+    "type": "toothbrush",
+    "image": "images/mid/toothbrush_brazil.jpg",
+    "photoBy": "Leony Carvalho for Dollar Street 2018 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_toothbrush_04",
+    "income": "mid",
+    "country": "France",
+    "continent": "Europe",
+    "monthlyIncome": 875,
+    "type": "toothbrush",
+    "image": "images/mid/toothbrush_france.jpg",
+    "photoBy": "Zoriah Miller for Dollar Street 2019 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_toothbrush_05",
+    "income": "mid",
+    "country": "India",
+    "continent": "Asia",
+    "monthlyIncome": 963,
+    "type": "toothbrush",
+    "image": "images/mid/toothbrush_india.jpg",
+    "photoBy": "Zoriah Miller for Dollar Street 2017 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_toothbrush_06",
+    "income": "mid",
+    "country": "Kenya",
+    "continent": "Africa",
+    "monthlyIncome": 645,
+    "type": "toothbrush",
+    "image": "images/mid/toothbrush_kenya.jpg",
+    "photoBy": "Zoriah Miller for Dollar Street 2017 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_toothbrush_07",
+    "income": "mid",
+    "country": "South Korea",
+    "continent": "Asia",
+    "monthlyIncome": 661,
+    "type": "toothbrush",
+    "image": "images/mid/toothbrush_south_korea.jpg",
+    "photoBy": "Luc Forsyth for Dollar Street 2015 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_toothbrush_08",
+    "income": "mid",
+    "country": "United States",
+    "continent": "The Americas",
+    "monthlyIncome": 960,
+    "type": "toothbrush",
+    "image": "images/mid/toothbrush_united_states.jpg",
+    "photoBy": "Katie Stringini for Dollar Street 2019 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_beds_01",
+    "income": "mid",
+    "country": "Colombia",
+    "continent": "The Americas",
+    "monthlyIncome": 750,
+    "type": "beds",
+    "image": "images/mid/beds_colombia.jpg",
+    "photoBy": "Juanita Hernandez for Dollar Street Invalid Date (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_beds_02",
+    "income": "mid",
+    "country": "Brazil",
+    "continent": "The Americas",
+    "monthlyIncome": 685,
+    "type": "beds",
+    "image": "images/mid/beds_brazil.jpg",
+    "photoBy": "Leony Carvalho for Dollar Street 2018 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_beds_03",
+    "income": "mid",
+    "country": "United States",
+    "continent": "The Americas",
+    "monthlyIncome": 996,
+    "type": "beds",
+    "image": "images/mid/beds_united_states.jpg",
+    "photoBy": "Isaiah Williams for Dollar Street 2017 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_beds_04",
+    "income": "mid",
+    "country": "Spain",
+    "continent": "Europe",
+    "monthlyIncome": 800,
+    "type": "beds",
+    "image": "images/mid/beds_spain.jpg",
+    "photoBy": "Omar Havana for Dollar Street 2020 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_beds_05",
+    "income": "mid",
+    "country": "Kenya",
+    "continent": "Africa",
+    "monthlyIncome": 645,
+    "type": "beds",
+    "image": "images/mid/beds_kenya.jpg",
+    "photoBy": "Zoriah Miller for Dollar Street 2019 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_beds_06",
+    "income": "mid",
+    "country": "South Korea",
+    "continent": "Asia",
+    "monthlyIncome": 700,
+    "type": "beds",
+    "image": "images/mid/beds_south_korea.jpg",
+    "photoBy": "Luc Forsyth for Dollar Street 2015 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_beds_07",
+    "income": "mid",
+    "country": "India",
+    "continent": "Asia",
+    "monthlyIncome": 797,
+    "type": "beds",
+    "image": "images/mid/beds_india.jpg",
+    "photoBy": "Abhineet Malhotra for Dollar Street 2015 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_beds_08",
+    "income": "mid",
+    "country": "France",
+    "continent": "Europe",
+    "monthlyIncome": 803,
+    "type": "beds",
+    "image": "images/mid/beds_france.jpg",
+    "photoBy": "Zoriah Miller for Dollar Street 2019 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_families_01",
+    "income": "mid",
+    "country": "Brazil",
+    "continent": "The Americas",
+    "monthlyIncome": 845,
+    "type": "families",
+    "image": "images/mid/families_brazil.jpg",
+    "photoBy": "Leony Carvalho for Dollar Street 2018 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_families_02",
+    "income": "mid",
+    "country": "Colombia",
+    "continent": "The Americas",
+    "monthlyIncome": 971,
+    "type": "families",
+    "image": "images/mid/families_colombia.JPG",
+    "photoBy": "Valentina del Mar for Dollar Street 2021 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_families_03",
+    "income": "mid",
+    "country": "France",
+    "continent": "Europe",
+    "monthlyIncome": 803,
+    "type": "families",
+    "image": "images/mid/families_france.jpg",
+    "photoBy": "Zoriah Miller for Dollar Street 2019 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_families_04",
+    "income": "mid",
+    "country": "India",
+    "continent": "Asia",
+    "monthlyIncome": 526,
+    "type": "families",
+    "image": "images/mid/families_india.jpg",
+    "photoBy": "Swapan Banik for Dollar Street 2016 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_families_05",
+    "income": "mid",
+    "country": "Kenya",
+    "continent": "Africa",
+    "monthlyIncome": 645,
+    "type": "families",
+    "image": "images/mid/families_kenya.jpg",
+    "photoBy": "Zoriah Miller for Dollar Street 2019 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_families_06",
+    "income": "mid",
+    "country": "South Korea",
+    "continent": "Asia",
+    "monthlyIncome": 700,
+    "type": "families",
+    "image": "images/mid/families_south_korea.jpg",
+    "photoBy": "Luc Forsyth for Dollar Street 2015 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_families_07",
+    "income": "mid",
+    "country": "Spain",
+    "continent": "Europe",
+    "monthlyIncome": 824,
+    "type": "families",
+    "image": "images/mid/families_spain.jpg",
+    "photoBy": "Omar Havana for Dollar Street 2020 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "mid_families_08",
+    "income": "mid",
+    "country": "United States",
+    "continent": "The Americas",
+    "monthlyIncome": 996,
+    "type": "families",
+    "image": "images/mid/families_united_states.jpg",
+    "photoBy": "Isaiah Williams for Dollar Street 2017 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "low_toothbrush_01",
+    "income": "low",
+    "country": "Burundi",
+    "continent": "Africa",
+    "monthlyIncome": 27,
+    "type": "toothbrush",
+    "image": "images/low/toothbrush_burundi_01.jpg",
+    "photoBy": "Eriksson for Dollar Street 2015 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "low_toothbrush_02",
+    "income": "low",
+    "country": "Burundi",
+    "continent": "Africa",
+    "monthlyIncome": 29,
+    "type": "toothbrush",
+    "image": "images/low/toothbrush_burundi_02.jpg",
+    "photoBy": "Johan Eriksson for Dollar Street 2015 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "low_toothbrush_03",
+    "income": "low",
+    "country": "India",
+    "continent": "Asia",
+    "monthlyIncome": 30,
+    "type": "toothbrush",
+    "image": "images/low/toothbrush_india.jpg",
+    "photoBy": "Zoriah Miller for Dollar Street 2015 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "low_beds_01",
+    "income": "low",
+    "country": "Burundi",
+    "continent": "Africa",
+    "monthlyIncome": 29,
+    "type": "beds",
+    "image": "images/low/beds_burundi.jpg",
+    "photoBy": "Johan Eriksson for Dollar Street 2015 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "low_beds_02",
+    "income": "low",
+    "country": "Burkina Faso",
+    "continent": "Africa",
+    "monthlyIncome": 29,
+    "type": "beds",
+    "image": "images/low/beds_burkina_faso.jpg",
+    "photoBy": "Zoriah Miller for Dollar Street 2014 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "low_beds_03",
+    "income": "low",
+    "country": "India",
+    "continent": "Asia",
+    "monthlyIncome": 30,
+    "type": "beds",
+    "image": "images/low/beds_india.jpg",
+    "photoBy": "Zoriah Miller for Dollar Street 2015 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "low_families_01",
+    "income": "low",
+    "country": "Burundi",
+    "continent": "Africa",
+    "monthlyIncome": 27,
+    "type": "families",
+    "image": "images/low/families_burundi_01.jpg",
+    "photoBy": "Johan Eriksson for Dollar Street 2015 (Free to use under CC BY 4.0)"
+  },
+  {
+    "id": "low_families_02",
+    "income": "low",
+    "country": "Burundi",
+    "continent": "Africa",
+    "monthlyIncome": 29,
+    "type": "families",
+    "image": "images/low/families_burundi_02.jpg",
+    "photoBy": "Johan Eriksson for Dollar Street 2015 (Free to use under CC BY 4.0)"
+  }
+]
+  
