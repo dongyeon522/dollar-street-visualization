@@ -319,16 +319,6 @@ function drawPopupMap(countryName) {
       .attr("fill", d => (d.properties.name === targetName ? "#e74c3c" : "#ccc"))
       .attr("stroke", "#fff");
 
-      // const koreaFeature = countries.find(d => d.properties.name === "South Korea");
-      // if (koreaFeature) {
-      //   svg.append("path")
-      //     .datum(koreaFeature)
-      //     .attr("d", path)
-      //     .attr("fill", "#e74c3c")
-      //     .attr("stroke", "#000")
-      //     .attr("stroke-width", 1);
-      // }
-
     const countryFeature = countries.find(f => f.properties.name === targetName);
     if (countryFeature) {
       const centroid = path.centroid(countryFeature);
@@ -338,31 +328,9 @@ function drawPopupMap(countryName) {
         .attr("r", 3)
         .attr("fill", "red");
           console.log("Centroid for", targetName, centroid);
-
-      // svg.append("circle")
-      //   .attr("cx", 360.78)
-      //   .attr("cy", 71.77)
-      //   .attr("r", 3)
-      //   .attr("fill", "blue")
-      //   .attr("stroke", "#fff")
-      //   .attr("stroke-width", 1.5);
-
-        
     }
   });
 }
-
-// Generate country map SVG
-// function generateCountryMap(country) {
-//   // 기존 지도 생성 코드는 그대로 두고, tooltip 내용만 변경
-//   return `
-//     <div class="tooltip-content">
-//       <div class="tooltip-location">${country}, ${getContinent(country)}</div>
-//       <div class="tooltip-income">$${getMonthlyIncome(country)}/month</div>
-//       <div class="tooltip-photo">Photo by: Dollar Street</div>
-//     </div>
-//   `;
-// }
 
 function getContinent(country) {
   const continentMap = {
@@ -382,9 +350,7 @@ function getContinent(country) {
 }
 
 function getMonthlyIncome(country) {
-  // 현재 표시되는 아이템의 monthlyIncome을 가져오는 로직
-  // 실제로는 d.monthlyIncome을 사용해야 함
-  return '30'; // 임시값, 실제로는 동적으로 계산
+  return '30';
 }
 
 // Update toothbrush images based on current filters
@@ -454,9 +420,6 @@ function updateToothbrushImages() {
       d3.select("#popup").classed("hidden", false);
       drawPopupMap(d.country);
     });
-
-  // 각 scene에서 이미지 컨테이너에 문구 추가
-  // imageContainer.append("p").text("Place your mouse on images for details").style("text-align", "center").style("color", "#7f8c8d").style("margin-bottom", "1em").style("font-style", "italic");
 }
 
 // Update beds images based on current filters
@@ -527,8 +490,6 @@ function updateBedsImages() {
     drawPopupMap(d.country);
   });
 
-  // 각 scene에서 이미지 컨테이너에 문구 추가
-  // imageContainer.append("p").text("Place your mouse on images for details").style("text-align", "center").style("color", "#7f8c8d").style("margin-bottom", "1em").style("font-style", "italic");
 }
 
 // Update families images based on current filters
@@ -612,8 +573,6 @@ function updateFamiliesImages() {
     d3.select("#popup-close").on("click", () => {
     d3.select("#popup").classed("hidden", true);
   });
-  // 각 scene에서 이미지 컨테이너에 문구 추가
-  // imageContainer.append("p").text("Place your mouse on images for details").style("text-align", "center").style("color", "#7f8c8d").style("margin-bottom", "1em").style("font-style", "italic");
 }
 
 // Annotation functions
@@ -730,8 +689,7 @@ function addFilters(container, type) {
     else if (type === "families") updateFamiliesImages();
   });
 
-  // 필터 박스 안에 문구 추가
-  filterBar.append("p").text("Place your mouse on images for details").style("text-align", "center").style("color", "#7f8c8d").style("margin-bottom", "1em").style("font-style", "italic");
+  filterBar.append("p").text("Place mouse or Click on images for details").style("text-align", "center").style("color", "#7f8c8d").style("margin-bottom", "1em").style("font-style", "italic");
 
   function renderOverviewScene() {
     const container = d3.select("#scene-container");
@@ -774,12 +732,6 @@ function addFilters(container, type) {
         .attr("fill", "#f0f0f0")
         .attr("stroke", "#ccc");
   
-      // Sample points for France and Burundi
-      const countryPoints = [
-        { name: "France", coords: [2.2137, 46.2276], income: "high" },
-        { name: "Burundi", coords: [29.9189, -3.3731], income: "low" }
-      ];
-  
       // Color by income
       const incomeColor = {
         high: "#2ecc71",
@@ -797,22 +749,6 @@ function addFilters(container, type) {
         .attr("fill", d => incomeColor[d.income])
         .attr("stroke", "#333")
         .attr("stroke-width", 1);
-  
-      // Annotation for Burundi
-      const [x, y] = projection(countryPoints[1].coords);
-      const annotations = [
-        {
-          note: {
-            title: "Burundi",
-            label: "Households earn as little as $27/month.",
-            wrap: 180
-          },
-          x: x,
-          y: y,
-          dx: 30,
-          dy: -40
-        }
-      ];
   
       const makeAnnotations = d3.annotation()
         .type(d3.annotationLabel)
