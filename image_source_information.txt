@@ -1,0 +1,58 @@
+high/toothbrush_united_states.jpg, Raashi Saxena (2019). Toothbrush United States [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/toothbrush_france.jpg, Omar Havana (2020). Toothbrush France [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/toothbrush_czech_republic.jpg, Michal Sikora (2019). Toothbrush Czech Republic [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/toothbrush_brazil.jpg, Leony Carvalho (2018). Toothbrush Brazil [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/toothbrush_colombia.jpg, Susana Arabia (2022). Toothbrush Colombia [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/toothbrush_india.jpg, Vanshika Sharma (2018). Toothbrush India [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/toothbrush_spain.jpg, Omar Havana (2019). Toothbrush Spain [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/toothbrush_kenya.jpg, Johan Selin (2015). Toothbrush Kenya [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/toothbrush_south_korea.jpg, Luc Forsyth (2015). Toothbrush South Korea [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/beds_kenya.jpg, Johan Selin (2015). Beds Kenya [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/beds_south_korea.jpg, Luc Forsyth (2015). Beds South Korea [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/beds_united_states.jpg, Raashi Saxena (2019). Beds United States [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/beds_brazil.jpg, Leony Carvalho (2018). Beds Brazil [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/beds_colombia.jpg, Valentina Gil (2019). Beds Colombia [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/beds_czech_republic.jpg, Michal Sikora (2019). Beds Czech Republic [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/beds_france.jpg, Michal Sikora (2019). Beds France [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/beds_india.jpg, Priya Gupta (2018). Beds India [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/beds_spain.jpg, Omar Havana (2019). Beds Spain [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/families_colombia.jpg, Ana Maria (2020). Families Colombia [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/families_czech_republic.jpg, Beatriz Loducca Sivieri (2019). Families Czech Republic [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/families_france.jpg, None (None). Families France [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/families_india.jpg, Priya Gupta (2018). Families India [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/families_south_korea.jpg, Luc Forsyth (2015). Families South Korea [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/families_spain.jpg, Omar Havana (2019). Families Spain [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+high/families_united_states.jpg, Raashi Saxena (2019). Families United States [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/toothbrush_colombia.jpg, Andrea Builes Gomez (2019). Toothbrush Colombia [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/toothbrush_spain.jpg, Omar Havana (2020). Toothbrush Spain [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/toothbrush_brazil.jpg, Leony Carvalho (2018). Toothbrush Brazil [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/toothbrush_france.jpg, Zoriah Miller (2019). Toothbrush France [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/toothbrush_india.jpg, Zoriah Miller (2017). Toothbrush India [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/toothbrush_kenya.jpg, Zoriah Miller (2019). Toothbrush Kenya [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/toothbrush_south_korea.jpg, Luc Forsyth (2015). Toothbrush South Korea [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/toothbrush_united_states.jpg, Katie Stringini (2019). Toothbrush United States [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/families_brazil.jpg, Leony Carvalho (2018). Families Brazil [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/families_colombia.jpg, Valentina del Mar (2021). Families Colombia [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/families_czech_republic.jpg, None (None). Families Czech Republic [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/families_france.jpg, Zoriah Miller (2019). Families France [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/families_india.jpg, Swapan Banik (2016). Families India [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/families_kenya.jpg, Zoriah Miller (2019). Families Kenya [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/families_south_korea.jpg, Luc Forsyth (2015). Families South Korea [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/families_spain.jpg, Omar Havana (2020). Families Spain [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/families_united_states.jpg, Isaiah Williams (2017). Families United States [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/beds_colombia.jpg, Juanita Hernandez (Invalid Date). Beds Colombia [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/beds_brazil.jpg, Leony Carvalho (2018). Beds Brazil [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/beds_united_states.jpg, Isaiah Williams (2017). Beds United States [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/beds_spain.jpg, Omar Havana (2020). Beds Spain [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/beds_kenya.jpg, Zoriah Miller (2019). Beds Kenya [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/beds_south_korea.jpg, Luc Forsyth (2015). Beds South Korea [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/beds_india.jpg, Abhineet Malhotra (2015). Beds India [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+mid/beds_france.jpg, Zoriah Miller (2019). Beds France [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+low/toothbrush_burundi_01.jpg, Johan Eriksson (2015). Toothbrush Burundi 01 [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+low/toothbrush_burundi_02.jpg, Johan Eriksson (2015). Toothbrush Burundi 02 [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+low/toothbrush_india.jpg, Zoriah Miller (2015). Toothbrush India [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+low/beds_burundi.jpg, Johan Eriksson (2015). Beds Burundi [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+low/beds_burkina_faso.jpg, Zoriah Miller (2014). Beds Burkina Faso [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+low/beds_india.jpg, Zoriah Miller (2015). Beds India [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+low/families_burundi_01.jpg, Johan Eriksson (2015). Families Burundi 01 [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
+low/families_burundi_02.jpg, Johan Eriksson (2015). Families Burundi 02 [Photograph]. Dollar Street. https://www.gapminder.org/dollar-street
